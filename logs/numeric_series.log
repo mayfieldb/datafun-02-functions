@@ -1,0 +1,28 @@
+2023-08-28 13:06:36,291.numeric_series.INFO ==================================================
+2023-08-28 13:06:36,291.numeric_series.INFO Today is 2023-08-28 at 01:06 PM
+2023-08-28 13:06:36,291.numeric_series.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-08-28 13:06:36,292.numeric_series.INFO Python version:  3.11.4
+2023-08-28 13:06:36,292.numeric_series.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-08-28 13:06:36,292.numeric_series.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-08-28 13:06:36,292.numeric_series.INFO ==================================================
+2023-08-28 13:06:36,292.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-08-28 13:06:36,293.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-08-28 13:06:36,293.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-08-28 13:06:36,293.numeric_series.INFO NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-08-28 13:06:36,293.numeric_series.INFO Count: 6
+2023-08-28 13:06:36,293.numeric_series.INFO Sum: 54
+2023-08-28 13:06:36,293.numeric_series.INFO Mean: 9.0
+2023-08-28 13:06:36,293.numeric_series.INFO Median: 9.0
+2023-08-28 13:06:36,293.numeric_series.INFO ------------------
+2023-08-28 13:06:36,293.numeric_series.INFO NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-08-28 13:06:36,293.numeric_series.INFO Count: 8
+2023-08-28 13:06:36,294.numeric_series.INFO Sum: 74
+2023-08-28 13:06:36,294.numeric_series.INFO Mean: 9.25
+2023-08-28 13:06:36,294.numeric_series.INFO Median: 10.0
+2023-08-28 13:06:36,294.numeric_series.INFO ------------------
+2023-08-28 13:06:36,294.numeric_series.INFO NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-08-28 13:06:36,294.numeric_series.INFO Count: 4
+2023-08-28 13:06:36,294.numeric_series.INFO Sum: 34
+2023-08-28 13:06:36,294.numeric_series.INFO Mean: 8.5
+2023-08-28 13:06:36,294.numeric_series.INFO Median: 8.5
+2023-08-28 13:06:36,295.numeric_series.INFO ------------------
