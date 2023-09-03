@@ -57,14 +57,19 @@ With Python we can define 'unit tests' right here in the docstring.
 import doctest
 
 from util_logger import setup_logger
-logger, logname = setup_logger(__file__)
+logger, logname = setup_logger(__name__)
 
 
-def add_two(first, second):
+def sum(number1, number2):
     """Return the sum of any two arguments."""
-    logger.info(f"CALLING add_two({first},{second})")
+    if sum =(number1 + number2)
+    return sum
 
-    sum = first + second
+    sum(5,5)n4
+
+    logger.info(f"CALLING sum({number1},{number2})")
+
+
 
     logger.info(f"RETURNING {sum}")
     return sum
