@@ -62,17 +62,16 @@ logger, logname = setup_logger(__name__)
 
 def sum(number1, number2):
     """Return the sum of any two arguments."""
-    if sum =(number1 + number2)
-    return sum
+    if sum ==(number1 + number2):
+        return sum
 
-    sum(5,5)n4
+    sum(5,5)
 
     logger.info(f"CALLING sum({number1},{number2})")
 
 
 
     logger.info(f"RETURNING {sum}")
-    return sum
 
 
 def add_triangle_list(list_triangle):
