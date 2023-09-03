@@ -1,0 +1,28 @@
+2023-09-03 13:57:52,233.user_easy_stats_Betsy.INFO ==================================================
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO Today is 2023-09-03 at 01:57 PM
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO Python version:  3.11.4
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:57:52,234.user_easy_stats_Betsy.INFO ==================================================
+2023-09-03 13:57:52,297.user_easy_stats_Betsy.INFO uni_data = [105, 129, 87, 86, 111, 111, 89, 81, 108, 92, 110, 100, 75, 105, 103, 109, 76, 119, 99, 91, 103, 129, 106, 101, 84, 111, 74, 87, 86, 103, 103, 106, 86, 111, 75, 87, 102, 121, 111, 88, 89, 101, 106, 95, 103, 107, 101, 81, 109, 104]
+2023-09-03 13:57:52,306.user_easy_stats_Betsy.INFO mean   = 99.12
+2023-09-03 13:57:52,307.user_easy_stats_Betsy.INFO median = 102.50
+2023-09-03 13:57:52,308.user_easy_stats_Betsy.INFO mode   = 111.00
+2023-09-03 13:57:52,310.user_easy_stats_Betsy.WARNING Correlation requires Python version 3.10 or greater.
+2023-09-03 13:57:52,311.user_easy_stats_Betsy.WARNING Your version is 3.11
+2023-09-03 13:57:52,311.user_easy_stats_Betsy.INFO Here's some time series data:
+2023-09-03 13:57:52,312.user_easy_stats_Betsy.INFO xtimes:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2023-09-03 13:57:52,314.user_easy_stats_Betsy.INFO yvalues:[2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
+2023-09-03 13:57:52,315.user_easy_stats_Betsy.INFO correlation between xtimes and xtimes = 1.00
+2023-09-03 13:57:52,315.user_easy_stats_Betsy.INFO correlation between xtimes and yvalues = 0.94
+2023-09-03 13:57:52,318.user_easy_stats_Betsy.INFO Here's some bivariant data (2 variables, together):
+2023-09-03 13:57:52,321.user_easy_stats_Betsy.INFO x:[-200, -150, -100, 50, 0, 50, 100, 150]
+2023-09-03 13:57:52,321.user_easy_stats_Betsy.INFO y:[-240, -165, -99, 35, 19, 75, 130, 125]
+2023-09-03 13:57:52,321.user_easy_stats_Betsy.INFO Calculate the slope and intercept of a best fit straight line:
+2023-09-03 13:57:52,321.user_easy_stats_Betsy.INFO    slope = 1.09
+2023-09-03 13:57:52,322.user_easy_stats_Betsy.INFO    intercept = -1.39
+2023-09-03 13:57:52,322.user_easy_stats_Betsy.INFO Let's use our best fit line to PREDICT a future value.
+2023-09-03 13:57:52,322.user_easy_stats_Betsy.INFO    At future x = 200,
+2023-09-03 13:57:52,322.user_easy_stats_Betsy.INFO    we predict the value of y will be 216.
+2023-09-03 13:57:52,322.user_easy_stats_Betsy.INFO How'd we do? Does this make sense given the data?

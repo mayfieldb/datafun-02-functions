@@ -1,15 +1,35 @@
-2023-09-03 10:47:34,337.__main__.INFO ==================================================
-2023-09-03 10:47:34,337.__main__.INFO Today is 2023-09-03 at 10:47 AM
-2023-09-03 10:47:34,337.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
-2023-09-03 10:47:34,337.__main__.INFO Python version:  3.11.4
-2023-09-03 10:47:34,337.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
-2023-09-03 10:47:34,337.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
-2023-09-03 10:47:34,338.__main__.INFO ==================================================
-2023-09-03 10:47:50,645.__main__.INFO Explore some functions in the math module
-2023-09-03 10:47:50,646.__main__.INFO math.comb(5,1) = 5
-2023-09-03 10:47:50,647.__main__.INFO math.perm(5,1) = 5
-2023-09-03 10:47:50,647.__main__.INFO math.comb(5,3) = 10
-2023-09-03 10:47:50,648.__main__.INFO math.perm(5,3) = 60
-2023-09-03 10:47:50,648.__main__.INFO math.pi = 3.141592653589793
-2023-09-03 10:47:50,648.__main__.INFO math.degrees(2 * math.pi) = 360.0
-2023-09-03 10:47:50,649.__main__.INFO math.radians(180)         = 3.141592653589793
+2023-09-03 13:10:18,613.__main__.INFO ==================================================
+2023-09-03 13:10:18,616.__main__.INFO Today is 2023-09-03 at 01:10 PM
+2023-09-03 13:10:18,617.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:10:18,618.__main__.INFO Python version:  3.11.4
+2023-09-03 13:10:18,619.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:10:18,620.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:10:18,621.__main__.INFO ==================================================
+2023-09-03 13:10:18,613.__main__.INFO ==================================================
+2023-09-03 13:10:18,616.__main__.INFO Today is 2023-09-03 at 01:10 PM
+2023-09-03 13:10:18,617.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:10:18,618.__main__.INFO Python version:  3.11.4
+2023-09-03 13:10:18,619.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:10:18,620.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:10:18,621.__main__.INFO ==================================================
+2023-09-03 13:10:18,613.__main__.INFO ==================================================
+2023-09-03 13:10:18,616.__main__.INFO Today is 2023-09-03 at 01:10 PM
+2023-09-03 13:10:18,617.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:10:18,618.__main__.INFO Python version:  3.11.4
+2023-09-03 13:10:18,619.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:10:18,620.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:10:18,621.__main__.INFO ==================================================
+2023-09-03 13:10:18,613.__main__.INFO ==================================================
+2023-09-03 13:10:18,616.__main__.INFO Today is 2023-09-03 at 01:10 PM
+2023-09-03 13:10:18,617.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:10:18,618.__main__.INFO Python version:  3.11.4
+2023-09-03 13:10:18,619.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:10:18,620.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:10:18,621.__main__.INFO ==================================================
+2023-09-03 13:10:18,613.__main__.INFO ==================================================
+2023-09-03 13:10:18,616.__main__.INFO Today is 2023-09-03 at 01:10 PM
+2023-09-03 13:10:18,617.__main__.INFO Running on: posix Linux 5.15.112-19404-g55fe7e355056
+2023-09-03 13:10:18,618.__main__.INFO Python version:  3.11.4
+2023-09-03 13:10:18,619.__main__.INFO Python path: /home/mayfieldbetsy/.cache/activestate/c5b7dbf7/usr
+2023-09-03 13:10:18,620.__main__.INFO Working dir: /home/mayfieldbetsy/Documents/datafun-02-functions
+2023-09-03 13:10:18,621.__main__.INFO ==================================================
