@@ -16,6 +16,16 @@ square_mileage = float(input ("How many square miles is the MTNF?"))
 def converToAcres(square_mileage):
     acres_in_mile = square_mileage / ACRE
     print ("Your acreage is %.2f" % acres_in_mile, "acres")
+    logger.info(f"CALLING get_converToAcres({square_mileage})")
+
+    try: 
+        acres_in_mile = square_mileage / ACRE
+        logger.info(f"The circle area is {acres_in_mile}")
+        return acres_in_mile
+    except Exception as ex:
+        logger.error(f"Error: {ex}")
+        return None
+    
 
 converToAcres(square_mileage)
 
